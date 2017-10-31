@@ -1,6 +1,4 @@
-#include<iostream>
-#include<fstream>
-#include<string>
+#include<bits/stdc++.h>
 #include"count.h"
 using namespace std;
 class Blood
